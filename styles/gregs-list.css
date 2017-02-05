@@ -1,0 +1,80 @@
+.container {
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 50px;
+	position: fixed;
+	width: 100%;
+	border-bottom: solid;
+	border-color: gray;
+	border-width: 1px;
+
+}
+
+ul {
+	list-style: none;
+
+}
+
+.main {
+	margin-left: 100px;
+}
+
+ul.page-links {
+	display: inline-block;
+	text-align: right;
+	color: purple;
+	float: right;
+	margin-right: 50px;
+}
+
+ul.page-links a {
+	text-decoration: none;
+}
+nav li {
+	display: inline-block;
+}
+
+.ul-results {
+	color: black;
+	display: inline;
+	/*border: 1px solid black;
+	border-radius: 25px;*/
+}
+
+div.search {
+	padding-top: 150px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.containermain {
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.search {
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 40px;
+    font-weight: bold;
+}
+
+img.search-icon {
+	height: 25px;
+	width: auto;
+}
+
+ul.results {
+	display: inline-block;
+}
+.jobs {
+	color: black;
+}
+#mySearch {
+	margin-left: auto;
+	margin-right: auto;
+}
+div#mySearch {
+	margin-left: auto;
+	margin-right: auto;
+}
