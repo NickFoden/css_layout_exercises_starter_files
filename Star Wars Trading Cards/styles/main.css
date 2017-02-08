@@ -1,0 +1,14 @@
+main {
+  padding-top: 15px;
+}
+
+main .row {
+  margin-bottom: 5px;
+}
+
+
+.box {
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+}
